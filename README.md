@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/bernd-wechner/Degoo)
+
 # Degoo CLI Util(s)
 
 Degoo are a cloud storage provider based in Sweden, who provide fairly goo phone apps and web interface along with affordable plans, of up 10 TB storage.
